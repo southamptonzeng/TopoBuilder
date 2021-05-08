@@ -1,0 +1,15 @@
+networkx~=2.4
+cplex
+numpy~=1.18.4
+keras~=2.3.1
+matplotlib
+loguru~=0.4.1
+dpkt~=1.9.2
+sklearn~=0.0
+scikit-learn~=0.22.2.post1
+fnss
+flask
+flask_restful
+tensorflow
+netifaces
+requests
